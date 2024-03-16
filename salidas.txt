@@ -1,0 +1,39 @@
+Ejercicio 1
+Cantidad_de_Envio_Silo_1_2 = 5.0
+Cantidad_de_Envio_Silo_1_4 = 10.0
+Cantidad_de_Envio_Silo_2_2 = 10.0
+Cantidad_de_Envio_Silo_2_3 = 15.0
+Cantidad_de_Envio_Silo_3_1 = 5.0
+Cantidad_de_Envio_Silo_3_4 = 5.0
+
+El costo mínimo es: 435.0 
+
+Ejercicio 2
+Cantidad_de_Envio_Canada_Brasil = 100.0
+Cantidad_de_Envio_Canada_Londres = 200.0
+Cantidad_de_Envio_Mesico_Africa = 100.0
+Cantidad_de_Envio_USA_Africa = 200.0
+Cantidad_de_Envio_USA_Brasil = 100.0
+
+El costo mínimo es: 3900.0 
+
+Ejercicio 3
+Cantidad_de_Envio_El_Torno_Cochabamba = 150.0
+Cantidad_de_Envio_Montero_Cochabamba = 20.0
+Cantidad_de_Envio_Montero_La_Paz = 80.0
+Cantidad_de_Envio_Montero_Tarija = 10.0
+Cantidad_de_Envio_Warnes_Tarija = 90.0
+
+El costo mínimo es: 10150.0  
+
+Ejercicio 4
+Asignación óptima: [(0, 0), (1, 2), (2, 1)]
+Costo total: 3 
+
+Ejercicio 5
+Asignación óptima: [(0, 1), (1, 0), (2, 2)]
+Costo total: 27 
+
+Ejercicio 6
+Asignación óptima: [(0, 1), (1, 0), (2, 3)]
+Costo total: 400 
