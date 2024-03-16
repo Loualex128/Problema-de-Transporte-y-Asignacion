@@ -3,6 +3,13 @@ from pulp import *
 from pandas import DataFrame
 from munkres import Munkres
 
+"""
+Ernesto Plasencia
+C.I. 27.725.909
+
+Manuel Cueto
+C.I. 30.241.203
+"""
 flag = True
 
 def aplicar_metodo_hungaro():
